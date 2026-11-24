@@ -1,0 +1,501 @@
+Complaint_ID,State,Filed_Date,Department,Complaint_Description,Urgency,Status,Resolution_Date,Resolution_Days
+JS-0001,Delhi,2025-03-13,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0002,Bihar,2025-04-30,Water Supply,Our water connection request has not been processed. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-05-06,6.0
+JS-0003,Maharashtra,2025-05-23,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0004,Maharashtra,2025-06-22,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Resolved,2025-07-09,17.0
+JS-0005,Rajasthan,2025-08-24,Rural Development,Our village drainage and sanitation work is incomplete. This is affecting my family and daily life.,Low,Resolved,2025-08-29,5.0
+JS-0006,Delhi,2025-04-27,Social Welfare,I am unable to access the eligible social assistance benefit. Kindly look into this matter and provide an update.,High,Resolved,2025-05-10,13.0
+JS-0007,Delhi,2025-07-06,Health & Family Welfare,The government hospital has no essential medicines available. Please resolve the issue at the earliest.,Low,Resolved,2025-08-04,29.0
+JS-0008,Madhya Pradesh,2025-05-19,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0009,Tamil Nadu,2025-06-11,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0010,Rajasthan,2025-03-13,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,Low,Resolved,2025-04-09,27.0
+JS-0011,Delhi,2025-03-12,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,Low,Resolved,2025-04-03,22.0
+JS-0012,Odisha,2025-07-17,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Resolved,2025-08-03,17.0
+JS-0013,Tamil Nadu,2025-02-28,Water Supply,The supplied water is dirty and causing concern among residents. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-03-13,13.0
+JS-0014,Uttar Pradesh,2025-05-15,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0015,Bihar,2025-03-24,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Medium,Resolved,2025-04-05,12.0
+JS-0016,Rajasthan,2025-07-05,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Pending,,
+JS-0017,Uttar Pradesh,2025-09-06,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,High,Resolved,2025-10-02,26.0
+JS-0018,Madhya Pradesh,2025-11-07,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Low,Resolved,2025-11-12,5.0
+JS-0019,Madhya Pradesh,2025-07-11,Water Supply,The public water pipeline is leaking and wasting water. This is affecting my family and daily life.,Low,Resolved,2025-07-28,17.0
+JS-0020,Bihar,2025-01-04,Rural Development,Our village drainage and sanitation work is incomplete. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-02-02,29.0
+JS-0021,Odisha,2025-05-02,Health & Family Welfare,The government hospital has no essential medicines available. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-05-18,16.0
+JS-0022,Maharashtra,2025-08-09,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,High,Resolved,2025-09-05,27.0
+JS-0023,Odisha,2025-06-23,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-07-12,19.0
+JS-0024,Delhi,2025-02-08,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Low,Resolved,2025-03-02,22.0
+JS-0025,Uttar Pradesh,2025-09-06,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0026,Odisha,2025-08-21,Electricity,Our locality has had a power outage for several days. Please resolve the issue at the earliest.,High,Resolved,2025-09-09,19.0
+JS-0027,Bihar,2025-01-30,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. This is affecting my family and daily life.,High,Resolved,2025-02-08,9.0
+JS-0028,Delhi,2025-02-11,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0029,Maharashtra,2025-10-19,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,High,Resolved,2025-11-06,18.0
+JS-0030,Maharashtra,2025-06-10,Social Welfare,I am unable to access the eligible social assistance benefit. This is affecting my family and daily life.,Medium,Resolved,2025-07-16,36.0
+JS-0031,Delhi,2025-02-07,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Low,Resolved,2025-03-16,37.0
+JS-0032,Tamil Nadu,2025-02-05,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,Medium,Pending,,
+JS-0033,Delhi,2025-09-28,Education,Scholarship payment has not reached my bank account. Please resolve the issue at the earliest.,Low,Resolved,2025-11-07,40.0
+JS-0034,Madhya Pradesh,2025-03-21,Health & Family Welfare,The health centre is understaffed and patients wait for hours. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-04-16,26.0
+JS-0035,Maharashtra,2025-05-09,Social Welfare,I am unable to access the eligible social assistance benefit. Kindly look into this matter and provide an update.,Low,Resolved,2025-06-16,38.0
+JS-0036,Uttar Pradesh,2025-11-23,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0037,Uttar Pradesh,2025-03-18,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,High,Resolved,2025-03-21,3.0
+JS-0038,Madhya Pradesh,2025-01-21,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0039,Madhya Pradesh,2025-07-28,Social Welfare,The welfare benefit application is pending without any explanation. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0040,Maharashtra,2025-06-20,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Pending,,
+JS-0041,Madhya Pradesh,2025-02-25,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-03-21,24.0
+JS-0042,Madhya Pradesh,2025-04-27,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-05-16,19.0
+JS-0043,Tamil Nadu,2025-05-23,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-06-04,12.0
+JS-0044,Maharashtra,2025-05-16,Rural Development,My village road is damaged and has not been repaired despite repeated requests. This is affecting my family and daily life.,Medium,Resolved,2025-06-18,33.0
+JS-0045,Bihar,2025-09-19,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Resolved,2025-10-19,30.0
+JS-0046,Tamil Nadu,2025-02-05,Social Welfare,The local office has not responded to my repeated application follow-ups. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0047,Rajasthan,2025-06-03,Water Supply,The supplied water is dirty and causing concern among residents. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-06-09,6.0
+JS-0048,Uttar Pradesh,2025-07-14,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Low,Resolved,2025-08-08,25.0
+JS-0049,Tamil Nadu,2025-01-01,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Pending,,
+JS-0050,Rajasthan,2025-03-28,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Medium,Resolved,2025-04-28,31.0
+JS-0051,Bihar,2025-05-01,Water Supply,The supplied water is dirty and causing concern among residents. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-05-16,15.0
+JS-0052,Maharashtra,2025-11-19,Rural Development,The rural employment payment for my work has not been credited. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-09,20.0
+JS-0053,Maharashtra,2025-01-03,Electricity,My new electricity connection application is still pending. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0054,Delhi,2025-05-08,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Pending,,
+JS-0055,Odisha,2025-08-15,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,Low,Resolved,2025-08-31,16.0
+JS-0056,Odisha,2025-11-23,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,Low,Resolved,2025-12-10,17.0
+JS-0057,Delhi,2025-05-27,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,High,Pending,,
+JS-0058,Delhi,2025-03-20,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-04-14,25.0
+JS-0059,Bihar,2025-04-16,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Low,Resolved,2025-05-15,29.0
+JS-0060,Maharashtra,2025-06-02,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-21,19.0
+JS-0061,Maharashtra,2025-09-06,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Medium,Resolved,2025-10-09,33.0
+JS-0062,Maharashtra,2025-10-01,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Medium,Resolved,2025-10-28,27.0
+JS-0063,Odisha,2025-08-25,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-09-14,20.0
+JS-0064,Delhi,2025-08-04,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Resolved,2025-08-27,23.0
+JS-0065,Bihar,2025-06-29,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Pending,,
+JS-0066,Delhi,2025-05-03,Rural Development,The rural employment payment for my work has not been credited. Kindly look into this matter and provide an update.,Medium,Resolved,2025-05-31,28.0
+JS-0067,Uttar Pradesh,2025-03-27,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Low,Resolved,2025-04-05,9.0
+JS-0068,Madhya Pradesh,2025-07-12,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-07-25,13.0
+JS-0069,Bihar,2025-11-04,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-12-04,30.0
+JS-0070,Maharashtra,2025-06-24,Education,There is no drinking water facility in the government school. This is affecting my family and daily life.,Medium,Resolved,2025-07-06,12.0
+JS-0071,Uttar Pradesh,2025-11-22,Electricity,Our locality has had a power outage for several days. Please resolve the issue at the earliest.,High,Resolved,2025-12-16,24.0
+JS-0072,Madhya Pradesh,2025-10-31,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Low,Resolved,2025-11-20,20.0
+JS-0073,Tamil Nadu,2025-10-19,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-07,19.0
+JS-0074,Rajasthan,2025-06-24,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Low,Resolved,2025-07-15,21.0
+JS-0075,Odisha,2025-07-28,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Medium,Resolved,2025-08-09,12.0
+JS-0076,Rajasthan,2025-07-27,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-14,18.0
+JS-0077,Rajasthan,2025-10-09,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Low,Resolved,2025-10-28,19.0
+JS-0078,Uttar Pradesh,2025-10-02,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0079,Delhi,2025-10-29,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Resolved,2025-11-25,27.0
+JS-0080,Uttar Pradesh,2025-01-08,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Kindly look into this matter and provide an update.,Low,Resolved,2025-02-01,24.0
+JS-0081,Bihar,2025-03-06,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-03-23,17.0
+JS-0082,Bihar,2025-06-24,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Resolved,2025-07-01,7.0
+JS-0083,Rajasthan,2025-02-07,Education,There is no drinking water facility in the government school. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-02-22,15.0
+JS-0084,Maharashtra,2025-11-13,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-12-03,20.0
+JS-0085,Madhya Pradesh,2025-11-14,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Low,Resolved,2025-12-28,44.0
+JS-0086,Uttar Pradesh,2025-03-30,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-05-02,33.0
+JS-0087,Delhi,2025-04-29,Rural Development,I applied for a rural housing benefit but have received no update. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0088,Uttar Pradesh,2025-10-06,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-11-07,32.0
+JS-0089,Odisha,2025-06-07,Education,Scholarship payment has not reached my bank account. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0090,Odisha,2025-09-14,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Low,Resolved,2025-10-01,17.0
+JS-0091,Bihar,2025-01-14,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0092,Uttar Pradesh,2025-08-15,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0093,Tamil Nadu,2025-07-29,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0094,Delhi,2025-10-09,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Low,Resolved,2025-11-14,36.0
+JS-0095,Odisha,2025-07-26,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-08-22,27.0
+JS-0096,Odisha,2025-11-15,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Resolved,2025-11-21,6.0
+JS-0097,Madhya Pradesh,2025-08-13,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,Medium,Resolved,2025-09-14,32.0
+JS-0098,Delhi,2025-02-17,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-03-08,19.0
+JS-0099,Odisha,2025-05-30,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0100,Uttar Pradesh,2025-11-03,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Low,Resolved,2025-11-28,25.0
+JS-0101,Odisha,2025-09-17,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Low,Resolved,2025-10-12,25.0
+JS-0102,Tamil Nadu,2025-10-06,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,Low,Resolved,2025-11-01,26.0
+JS-0103,Maharashtra,2025-07-30,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Resolved,2025-08-29,30.0
+JS-0104,Delhi,2025-10-30,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,High,Resolved,2025-11-20,21.0
+JS-0105,Odisha,2025-03-15,Electricity,Our locality has had a power outage for several days. Please resolve the issue at the earliest.,High,Resolved,2025-03-23,8.0
+JS-0106,Maharashtra,2025-06-18,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Pending,,
+JS-0107,Delhi,2025-05-28,Education,There is no drinking water facility in the government school. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-07-06,39.0
+JS-0108,Bihar,2025-01-15,Social Welfare,My pension has not been credited for the last two months. Please resolve the issue at the earliest.,Medium,Resolved,2025-02-09,25.0
+JS-0109,Uttar Pradesh,2025-05-06,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Pending,,
+JS-0110,Odisha,2025-10-26,Health & Family Welfare,The government hospital has no essential medicines available. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-18,23.0
+JS-0111,Odisha,2025-08-27,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Low,Resolved,2025-10-01,35.0
+JS-0112,Madhya Pradesh,2025-08-22,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Pending,,
+JS-0113,Maharashtra,2025-07-03,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-07-06,3.0
+JS-0114,Madhya Pradesh,2025-05-27,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-06-10,14.0
+JS-0115,Uttar Pradesh,2025-11-14,Water Supply,The supplied water is dirty and causing concern among residents. Kindly look into this matter and provide an update.,High,Resolved,2025-12-01,17.0
+JS-0116,Uttar Pradesh,2025-01-18,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-02-26,39.0
+JS-0117,Rajasthan,2025-03-09,Rural Development,Our village drainage and sanitation work is incomplete. This is affecting my family and daily life.,Low,Resolved,2025-04-07,29.0
+JS-0118,Odisha,2025-06-23,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0119,Delhi,2025-10-13,Rural Development,The rural employment payment for my work has not been credited. Kindly look into this matter and provide an update.,Low,Resolved,2025-10-29,16.0
+JS-0120,Delhi,2025-11-23,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Pending,,
+JS-0121,Odisha,2025-10-15,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-04,20.0
+JS-0122,Odisha,2025-01-20,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,High,Resolved,2025-02-16,27.0
+JS-0123,Maharashtra,2025-07-09,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0124,Rajasthan,2025-11-12,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-26,14.0
+JS-0125,Tamil Nadu,2025-05-01,Rural Development,Our village drainage and sanitation work is incomplete. Kindly look into this matter and provide an update.,Low,Resolved,2025-05-29,28.0
+JS-0126,Madhya Pradesh,2025-08-21,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Resolved,2025-09-13,23.0
+JS-0127,Madhya Pradesh,2025-03-06,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0128,Uttar Pradesh,2025-11-02,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Low,Resolved,2025-11-22,20.0
+JS-0129,Tamil Nadu,2025-01-14,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0130,Delhi,2025-08-04,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,High,Resolved,2025-08-27,23.0
+JS-0131,Rajasthan,2025-04-24,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Medium,Pending,,
+JS-0132,Delhi,2025-07-25,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-11,17.0
+JS-0133,Tamil Nadu,2025-03-17,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-04-17,31.0
+JS-0134,Delhi,2025-08-09,Electricity,A damaged electric wire is hanging dangerously near homes. Please resolve the issue at the earliest.,High,Resolved,2025-08-29,20.0
+JS-0135,Delhi,2025-07-31,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Low,Resolved,2025-08-21,21.0
+JS-0136,Odisha,2025-03-20,Education,There is no drinking water facility in the government school. This is affecting my family and daily life.,Low,Resolved,2025-04-22,33.0
+JS-0137,Tamil Nadu,2025-07-10,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-08-08,29.0
+JS-0138,Bihar,2025-08-05,Social Welfare,My pension has not been credited for the last two months. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0139,Delhi,2025-09-17,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-10-07,20.0
+JS-0140,Maharashtra,2025-10-21,Education,The school building is unsafe and needs urgent repair. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-11-19,29.0
+JS-0141,Uttar Pradesh,2025-06-08,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Medium,Resolved,2025-07-10,32.0
+JS-0142,Madhya Pradesh,2025-01-16,Water Supply,Our water connection request has not been processed. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-02-07,22.0
+JS-0143,Delhi,2025-06-09,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Low,Resolved,2025-07-02,23.0
+JS-0144,Maharashtra,2025-05-20,Rural Development,The rural employment payment for my work has not been credited. Kindly look into this matter and provide an update.,Medium,Resolved,2025-06-01,12.0
+JS-0145,Odisha,2025-09-20,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Low,Resolved,2025-10-22,32.0
+JS-0146,Madhya Pradesh,2025-11-03,Water Supply,The supplied water is dirty and causing concern among residents. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-11-26,23.0
+JS-0147,Maharashtra,2025-03-03,Education,Scholarship payment has not reached my bank account. Kindly look into this matter and provide an update.,Low,Resolved,2025-04-11,39.0
+JS-0148,Odisha,2025-01-22,Water Supply,The public water pipeline is leaking and wasting water. This is affecting my family and daily life.,Medium,Resolved,2025-02-17,26.0
+JS-0149,Uttar Pradesh,2025-08-02,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0150,Maharashtra,2025-02-24,Water Supply,Our water connection request has not been processed. This is affecting my family and daily life.,Medium,Resolved,2025-03-29,33.0
+JS-0151,Delhi,2025-04-24,Water Supply,There has been no drinking water supply in our street for many days. Please resolve the issue at the earliest.,Low,Resolved,2025-05-17,23.0
+JS-0152,Madhya Pradesh,2025-11-27,Water Supply,The public water pipeline is leaking and wasting water. This is affecting my family and daily life.,Low,Pending,,
+JS-0153,Odisha,2025-03-20,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,Medium,Resolved,2025-04-15,26.0
+JS-0154,Rajasthan,2025-02-04,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Low,Resolved,2025-02-18,14.0
+JS-0155,Delhi,2025-08-20,Education,The school has insufficient teachers and students are missing classes. This is affecting my family and daily life.,Medium,Resolved,2025-09-22,33.0
+JS-0156,Tamil Nadu,2025-10-20,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-16,27.0
+JS-0157,Bihar,2025-06-25,Water Supply,Our water connection request has not been processed. Kindly look into this matter and provide an update.,Medium,Resolved,2025-07-24,29.0
+JS-0158,Tamil Nadu,2025-05-25,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-19,25.0
+JS-0159,Uttar Pradesh,2025-10-13,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Medium,Resolved,2025-11-05,23.0
+JS-0160,Delhi,2025-07-20,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Low,Resolved,2025-08-09,20.0
+JS-0161,Bihar,2025-09-27,Education,There is no drinking water facility in the government school. This is affecting my family and daily life.,Medium,Resolved,2025-11-01,35.0
+JS-0162,Odisha,2025-06-24,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0163,Bihar,2025-06-01,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-06-21,20.0
+JS-0164,Uttar Pradesh,2025-04-03,Social Welfare,I am unable to access the eligible social assistance benefit. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0165,Odisha,2025-05-02,Social Welfare,The local office has not responded to my repeated application follow-ups. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-06-07,36.0
+JS-0166,Madhya Pradesh,2025-08-29,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. This is affecting my family and daily life.,High,Pending,,
+JS-0167,Uttar Pradesh,2025-09-15,Education,There is no drinking water facility in the government school. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0168,Delhi,2025-02-22,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,Low,Resolved,2025-03-16,22.0
+JS-0169,Madhya Pradesh,2025-09-20,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0170,Madhya Pradesh,2025-07-22,Electricity,A damaged electric wire is hanging dangerously near homes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-15,24.0
+JS-0171,Uttar Pradesh,2025-06-13,Electricity,Our locality has had a power outage for several days. This is affecting my family and daily life.,High,Resolved,2025-07-14,31.0
+JS-0172,Odisha,2025-03-13,Health & Family Welfare,The government hospital has no essential medicines available. This is affecting my family and daily life.,Low,Resolved,2025-04-01,19.0
+JS-0173,Maharashtra,2025-04-21,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-05-14,23.0
+JS-0174,Odisha,2025-05-03,Rural Development,Our village drainage and sanitation work is incomplete. Kindly look into this matter and provide an update.,High,Resolved,2025-05-12,9.0
+JS-0175,Tamil Nadu,2025-10-22,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-17,26.0
+JS-0176,Bihar,2025-07-04,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Medium,Resolved,2025-08-03,30.0
+JS-0177,Madhya Pradesh,2025-05-10,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-06-04,25.0
+JS-0178,Uttar Pradesh,2025-10-07,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,High,Resolved,2025-10-17,10.0
+JS-0179,Madhya Pradesh,2025-02-02,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,Medium,Resolved,2025-02-23,21.0
+JS-0180,Odisha,2025-09-21,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-09-28,7.0
+JS-0181,Tamil Nadu,2025-01-25,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Low,Resolved,2025-02-24,30.0
+JS-0182,Odisha,2025-04-06,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Low,Resolved,2025-04-26,20.0
+JS-0183,Rajasthan,2025-02-10,Education,The school building is unsafe and needs urgent repair. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-02-11,1.0
+JS-0184,Maharashtra,2025-06-06,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-07-13,37.0
+JS-0185,Bihar,2025-06-30,Health & Family Welfare,My health scheme claim has been pending for several weeks. This is affecting my family and daily life.,High,Resolved,2025-07-11,11.0
+JS-0186,Odisha,2025-03-15,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Pending,,
+JS-0187,Uttar Pradesh,2025-07-07,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-07-20,13.0
+JS-0188,Tamil Nadu,2025-02-09,Social Welfare,The local office has not responded to my repeated application follow-ups. This is affecting my family and daily life.,Low,Resolved,2025-03-21,40.0
+JS-0189,Delhi,2025-02-28,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-03-23,23.0
+JS-0190,Odisha,2025-11-10,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Resolved,2025-11-28,18.0
+JS-0191,Tamil Nadu,2025-08-16,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0192,Uttar Pradesh,2025-03-22,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-04-16,25.0
+JS-0193,Tamil Nadu,2025-05-02,Education,Scholarship payment has not reached my bank account. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-05-28,26.0
+JS-0194,Maharashtra,2025-09-03,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-27,24.0
+JS-0195,Uttar Pradesh,2025-08-19,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Low,Resolved,2025-09-04,16.0
+JS-0196,Tamil Nadu,2025-06-05,Health & Family Welfare,My health scheme claim has been pending for several weeks. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-07-03,28.0
+JS-0197,Rajasthan,2025-05-09,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Low,Resolved,2025-06-10,32.0
+JS-0198,Tamil Nadu,2025-11-16,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Medium,Resolved,2025-12-30,44.0
+JS-0199,Maharashtra,2025-11-25,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-12-13,18.0
+JS-0200,Maharashtra,2025-06-04,Water Supply,There has been no drinking water supply in our street for many days. Please resolve the issue at the earliest.,Low,Resolved,2025-06-23,19.0
+JS-0201,Tamil Nadu,2025-08-01,Education,There is no drinking water facility in the government school. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-08-21,20.0
+JS-0202,Delhi,2025-07-09,Social Welfare,I am unable to access the eligible social assistance benefit. This is affecting my family and daily life.,High,Resolved,2025-07-27,18.0
+JS-0203,Maharashtra,2025-05-07,Education,Scholarship payment has not reached my bank account. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0204,Uttar Pradesh,2025-06-10,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. This is affecting my family and daily life.,High,Resolved,2025-06-29,19.0
+JS-0205,Madhya Pradesh,2025-02-16,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0206,Odisha,2025-09-11,Water Supply,The supplied water is dirty and causing concern among residents. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-09-25,14.0
+JS-0207,Maharashtra,2025-05-16,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-06-01,16.0
+JS-0208,Rajasthan,2025-09-16,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,High,Resolved,2025-09-20,4.0
+JS-0209,Maharashtra,2025-06-23,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Medium,Resolved,2025-07-11,18.0
+JS-0210,Odisha,2025-06-20,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,High,Pending,,
+JS-0211,Rajasthan,2025-06-13,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. This is affecting my family and daily life.,High,Resolved,2025-07-13,30.0
+JS-0212,Bihar,2025-06-03,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Resolved,2025-07-11,38.0
+JS-0213,Bihar,2025-10-26,Education,The school building is unsafe and needs urgent repair. I have submitted requests earlier but no action has been taken.,High,Pending,,
+JS-0214,Maharashtra,2025-10-26,Water Supply,Our water connection request has not been processed. This is affecting my family and daily life.,Medium,Resolved,2025-12-07,42.0
+JS-0215,Maharashtra,2025-02-26,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-03-19,21.0
+JS-0216,Madhya Pradesh,2025-02-01,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Low,Resolved,2025-03-07,34.0
+JS-0217,Tamil Nadu,2025-06-10,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Resolved,2025-07-06,26.0
+JS-0218,Madhya Pradesh,2025-05-23,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-15,23.0
+JS-0219,Rajasthan,2025-09-08,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0220,Rajasthan,2025-03-16,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,Low,Resolved,2025-04-17,32.0
+JS-0221,Rajasthan,2025-09-03,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Low,Resolved,2025-10-02,29.0
+JS-0222,Madhya Pradesh,2025-09-29,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,High,Resolved,2025-10-31,32.0
+JS-0223,Uttar Pradesh,2025-02-21,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0224,Bihar,2025-05-28,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-19,22.0
+JS-0225,Odisha,2025-04-01,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0226,Tamil Nadu,2025-11-05,Health & Family Welfare,The health centre is understaffed and patients wait for hours. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-11-30,25.0
+JS-0227,Odisha,2025-08-28,Education,There is no drinking water facility in the government school. Please resolve the issue at the earliest.,Medium,Resolved,2025-09-20,23.0
+JS-0228,Madhya Pradesh,2025-06-01,Social Welfare,I am unable to access the eligible social assistance benefit. Kindly look into this matter and provide an update.,Medium,Resolved,2025-07-11,40.0
+JS-0229,Madhya Pradesh,2025-02-18,Health & Family Welfare,My health scheme claim has been pending for several weeks. Please resolve the issue at the earliest.,High,Resolved,2025-03-09,19.0
+JS-0230,Rajasthan,2025-05-17,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0231,Rajasthan,2025-02-01,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Low,Resolved,2025-02-22,21.0
+JS-0232,Odisha,2025-04-23,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Low,Pending,,
+JS-0233,Madhya Pradesh,2025-08-30,Health & Family Welfare,My health scheme claim has been pending for several weeks. This is affecting my family and daily life.,Low,Pending,,
+JS-0234,Madhya Pradesh,2025-10-16,Social Welfare,My pension has not been credited for the last two months. Please resolve the issue at the earliest.,High,Resolved,2025-10-19,3.0
+JS-0235,Delhi,2025-08-15,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Low,Resolved,2025-09-14,30.0
+JS-0236,Bihar,2025-08-01,Water Supply,Our water connection request has not been processed. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-22,21.0
+JS-0237,Tamil Nadu,2025-01-02,Water Supply,Our water connection request has not been processed. This is affecting my family and daily life.,Medium,Resolved,2025-01-27,25.0
+JS-0238,Maharashtra,2025-08-30,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-14,15.0
+JS-0239,Delhi,2025-07-15,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Resolved,2025-07-16,1.0
+JS-0240,Uttar Pradesh,2025-10-03,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-11-03,31.0
+JS-0241,Madhya Pradesh,2025-08-26,Social Welfare,The welfare benefit application is pending without any explanation. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-16,21.0
+JS-0242,Maharashtra,2025-02-27,Health & Family Welfare,My health scheme claim has been pending for several weeks. This is affecting my family and daily life.,Medium,Resolved,2025-03-16,17.0
+JS-0243,Bihar,2025-11-01,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,High,Resolved,2025-11-29,28.0
+JS-0244,Bihar,2025-04-22,Health & Family Welfare,The government hospital has no essential medicines available. Please resolve the issue at the earliest.,Low,Resolved,2025-05-20,28.0
+JS-0245,Madhya Pradesh,2025-06-14,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0246,Uttar Pradesh,2025-10-30,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Pending,,
+JS-0247,Maharashtra,2025-11-26,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-15,19.0
+JS-0248,Madhya Pradesh,2025-10-03,Electricity,The electricity bill contains an incorrect charge. This is affecting my family and daily life.,Low,Resolved,2025-10-16,13.0
+JS-0249,Madhya Pradesh,2025-08-02,Education,Scholarship payment has not reached my bank account. Please resolve the issue at the earliest.,Medium,Resolved,2025-08-23,21.0
+JS-0250,Maharashtra,2025-04-08,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,High,Resolved,2025-04-24,16.0
+JS-0251,Tamil Nadu,2025-10-28,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-11-21,24.0
+JS-0252,Odisha,2025-03-02,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Medium,Resolved,2025-03-17,15.0
+JS-0253,Tamil Nadu,2025-10-10,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Please resolve the issue at the earliest.,High,Resolved,2025-10-25,15.0
+JS-0254,Odisha,2025-09-12,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-10-05,23.0
+JS-0255,Maharashtra,2025-10-16,Education,Scholarship payment has not reached my bank account. This is affecting my family and daily life.,Low,Resolved,2025-11-19,34.0
+JS-0256,Odisha,2025-10-19,Education,Scholarship payment has not reached my bank account. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0257,Uttar Pradesh,2025-09-08,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-10-07,29.0
+JS-0258,Bihar,2025-09-08,Social Welfare,I am unable to access the eligible social assistance benefit. Kindly look into this matter and provide an update.,Medium,Resolved,2025-10-01,23.0
+JS-0259,Uttar Pradesh,2025-07-31,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-02,33.0
+JS-0260,Odisha,2025-11-23,Rural Development,The rural employment payment for my work has not been credited. Please resolve the issue at the earliest.,High,Resolved,2025-12-19,26.0
+JS-0261,Rajasthan,2025-07-30,Social Welfare,The local office has not responded to my repeated application follow-ups. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-03,35.0
+JS-0262,Madhya Pradesh,2025-09-26,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Resolved,2025-10-22,26.0
+JS-0263,Madhya Pradesh,2025-07-23,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-08-27,35.0
+JS-0264,Maharashtra,2025-01-17,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Medium,Resolved,2025-02-21,35.0
+JS-0265,Delhi,2025-02-12,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0266,Bihar,2025-10-18,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Medium,Resolved,2025-11-13,26.0
+JS-0267,Maharashtra,2025-06-11,Rural Development,Our village drainage and sanitation work is incomplete. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-07-12,31.0
+JS-0268,Tamil Nadu,2025-07-19,Rural Development,Our village drainage and sanitation work is incomplete. Kindly look into this matter and provide an update.,Medium,Resolved,2025-08-14,26.0
+JS-0269,Maharashtra,2025-08-12,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-30,18.0
+JS-0270,Maharashtra,2025-07-02,Education,The school has insufficient teachers and students are missing classes. This is affecting my family and daily life.,Low,Resolved,2025-07-31,29.0
+JS-0271,Uttar Pradesh,2025-06-01,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-30,29.0
+JS-0272,Rajasthan,2025-02-16,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,Low,Resolved,2025-03-01,13.0
+JS-0273,Maharashtra,2025-02-14,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-03-07,21.0
+JS-0274,Tamil Nadu,2025-11-02,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-12-06,34.0
+JS-0275,Madhya Pradesh,2025-02-13,Electricity,Our locality has had a power outage for several days. This is affecting my family and daily life.,High,Pending,,
+JS-0276,Uttar Pradesh,2025-06-04,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,High,Resolved,2025-06-11,7.0
+JS-0277,Odisha,2025-09-05,Rural Development,The rural employment payment for my work has not been credited. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0278,Tamil Nadu,2025-01-04,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,High,Pending,,
+JS-0279,Madhya Pradesh,2025-11-01,Water Supply,Our water connection request has not been processed. This is affecting my family and daily life.,Low,Pending,,
+JS-0280,Odisha,2025-06-13,Electricity,A damaged electric wire is hanging dangerously near homes. Kindly look into this matter and provide an update.,High,Resolved,2025-07-06,23.0
+JS-0281,Uttar Pradesh,2025-07-21,Water Supply,The public water pipeline is leaking and wasting water. This is affecting my family and daily life.,Low,Resolved,2025-08-03,13.0
+JS-0282,Delhi,2025-05-30,Social Welfare,My pension has not been credited for the last two months. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0283,Odisha,2025-03-20,Electricity,My new electricity connection application is still pending. Kindly look into this matter and provide an update.,Low,Resolved,2025-04-11,22.0
+JS-0284,Delhi,2025-07-04,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-07-16,12.0
+JS-0285,Tamil Nadu,2025-01-23,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,Medium,Resolved,2025-02-07,15.0
+JS-0286,Madhya Pradesh,2025-04-24,Electricity,Our locality has had a power outage for several days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-05-07,13.0
+JS-0287,Odisha,2025-10-29,Electricity,A damaged electric wire is hanging dangerously near homes. Please resolve the issue at the earliest.,High,Pending,,
+JS-0288,Tamil Nadu,2025-03-14,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,High,Resolved,2025-03-27,13.0
+JS-0289,Bihar,2025-08-13,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,Low,Resolved,2025-09-06,24.0
+JS-0290,Madhya Pradesh,2025-03-26,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0291,Maharashtra,2025-08-25,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Low,Resolved,2025-09-20,26.0
+JS-0292,Madhya Pradesh,2025-08-08,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Resolved,2025-09-03,26.0
+JS-0293,Rajasthan,2025-10-02,Health & Family Welfare,The health centre is understaffed and patients wait for hours. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-10-30,28.0
+JS-0294,Tamil Nadu,2025-10-28,Social Welfare,The local office has not responded to my repeated application follow-ups. This is affecting my family and daily life.,Low,Resolved,2025-11-29,32.0
+JS-0295,Uttar Pradesh,2025-06-10,Electricity,The electricity bill contains an incorrect charge. This is affecting my family and daily life.,Medium,Resolved,2025-07-11,31.0
+JS-0296,Uttar Pradesh,2025-08-05,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-09-04,30.0
+JS-0297,Bihar,2025-06-11,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0298,Maharashtra,2025-09-16,Electricity,The electricity bill contains an incorrect charge. Kindly look into this matter and provide an update.,Low,Resolved,2025-10-02,16.0
+JS-0299,Bihar,2025-02-12,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,Low,Resolved,2025-02-24,12.0
+JS-0300,Odisha,2025-10-17,Education,Scholarship payment has not reached my bank account. This is affecting my family and daily life.,Medium,Resolved,2025-11-06,20.0
+JS-0301,Odisha,2025-07-07,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-07-20,13.0
+JS-0302,Bihar,2025-05-07,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Medium,Resolved,2025-05-29,22.0
+JS-0303,Madhya Pradesh,2025-02-14,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-02-15,1.0
+JS-0304,Bihar,2025-04-16,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0305,Rajasthan,2025-03-28,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-04-09,12.0
+JS-0306,Uttar Pradesh,2025-05-22,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0307,Rajasthan,2025-05-07,Social Welfare,The welfare benefit application is pending without any explanation. Kindly look into this matter and provide an update.,Medium,Resolved,2025-06-02,26.0
+JS-0308,Rajasthan,2025-02-17,Social Welfare,The local office has not responded to my repeated application follow-ups. Please resolve the issue at the earliest.,High,Resolved,2025-02-23,6.0
+JS-0309,Odisha,2025-01-02,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Low,Resolved,2025-02-07,36.0
+JS-0310,Odisha,2025-08-08,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0311,Bihar,2025-10-23,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Pending,,
+JS-0312,Bihar,2025-03-22,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Please resolve the issue at the earliest.,High,Resolved,2025-04-20,29.0
+JS-0313,Uttar Pradesh,2025-05-21,Electricity,The electricity bill contains an incorrect charge. Kindly look into this matter and provide an update.,Low,Resolved,2025-06-22,32.0
+JS-0314,Bihar,2025-02-16,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Resolved,2025-03-18,30.0
+JS-0315,Delhi,2025-09-23,Health & Family Welfare,My health scheme claim has been pending for several weeks. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-10-18,25.0
+JS-0316,Delhi,2025-02-15,Electricity,The electricity bill contains an incorrect charge. Please resolve the issue at the earliest.,Medium,Resolved,2025-03-12,25.0
+JS-0317,Bihar,2025-03-10,Rural Development,Our village drainage and sanitation work is incomplete. This is affecting my family and daily life.,High,Resolved,2025-03-20,10.0
+JS-0318,Maharashtra,2025-11-18,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Low,Resolved,2025-12-04,16.0
+JS-0319,Maharashtra,2025-03-13,Water Supply,Our water connection request has not been processed. Kindly look into this matter and provide an update.,Medium,Resolved,2025-04-08,26.0
+JS-0320,Rajasthan,2025-05-08,Education,Scholarship payment has not reached my bank account. Kindly look into this matter and provide an update.,Low,Resolved,2025-05-23,15.0
+JS-0321,Madhya Pradesh,2025-09-18,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Medium,Resolved,2025-10-16,28.0
+JS-0322,Bihar,2025-11-01,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-12-04,33.0
+JS-0323,Odisha,2025-10-19,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Resolved,2025-10-28,9.0
+JS-0324,Maharashtra,2025-01-21,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0325,Rajasthan,2025-07-25,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Resolved,2025-08-20,26.0
+JS-0326,Maharashtra,2025-03-21,Rural Development,Our village drainage and sanitation work is incomplete. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-04-20,30.0
+JS-0327,Odisha,2025-05-03,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Low,Resolved,2025-06-01,29.0
+JS-0328,Uttar Pradesh,2025-03-12,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,High,Resolved,2025-03-31,19.0
+JS-0329,Delhi,2025-03-06,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-03-23,17.0
+JS-0330,Delhi,2025-05-15,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Low,Resolved,2025-05-24,9.0
+JS-0331,Delhi,2025-10-18,Electricity,My new electricity connection application is still pending. This is affecting my family and daily life.,Medium,Resolved,2025-11-15,28.0
+JS-0332,Uttar Pradesh,2025-08-30,Health & Family Welfare,The government hospital has no essential medicines available. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-09-29,30.0
+JS-0333,Tamil Nadu,2025-08-02,Health & Family Welfare,The government hospital has no essential medicines available. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0334,Delhi,2025-01-24,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0335,Rajasthan,2025-10-11,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Resolved,2025-10-21,10.0
+JS-0336,Madhya Pradesh,2025-09-10,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0337,Bihar,2025-01-13,Social Welfare,The welfare benefit application is pending without any explanation. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0338,Maharashtra,2025-09-29,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,High,Pending,,
+JS-0339,Maharashtra,2025-02-17,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0340,Maharashtra,2025-09-16,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Medium,Resolved,2025-10-13,27.0
+JS-0341,Tamil Nadu,2025-05-14,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-19,36.0
+JS-0342,Delhi,2025-04-14,Education,There is no drinking water facility in the government school. This is affecting my family and daily life.,High,Resolved,2025-04-17,3.0
+JS-0343,Odisha,2025-07-28,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,Low,Resolved,2025-08-28,31.0
+JS-0344,Bihar,2025-06-05,Education,There is no drinking water facility in the government school. This is affecting my family and daily life.,High,Pending,,
+JS-0345,Uttar Pradesh,2025-07-02,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Kindly look into this matter and provide an update.,Medium,Resolved,2025-07-25,23.0
+JS-0346,Uttar Pradesh,2025-02-22,Rural Development,I applied for a rural housing benefit but have received no update. Please resolve the issue at the earliest.,High,Pending,,
+JS-0347,Rajasthan,2025-07-25,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-04,10.0
+JS-0348,Delhi,2025-08-16,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0349,Maharashtra,2025-10-21,Education,The school has insufficient teachers and students are missing classes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-10-27,6.0
+JS-0350,Odisha,2025-04-06,Social Welfare,The local office has not responded to my repeated application follow-ups. Kindly look into this matter and provide an update.,Low,Resolved,2025-05-07,31.0
+JS-0351,Maharashtra,2025-10-09,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,Low,Resolved,2025-10-31,22.0
+JS-0352,Odisha,2025-07-03,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-07-21,18.0
+JS-0353,Rajasthan,2025-01-14,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Pending,,
+JS-0354,Madhya Pradesh,2025-02-21,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Resolved,2025-03-24,31.0
+JS-0355,Tamil Nadu,2025-03-30,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0356,Odisha,2025-04-07,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Medium,Pending,,
+JS-0357,Odisha,2025-02-16,Water Supply,The supplied water is dirty and causing concern among residents. Kindly look into this matter and provide an update.,High,Resolved,2025-03-16,28.0
+JS-0358,Tamil Nadu,2025-04-01,Rural Development,Our village drainage and sanitation work is incomplete. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0359,Maharashtra,2025-09-27,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Kindly look into this matter and provide an update.,Medium,Resolved,2025-11-05,39.0
+JS-0360,Maharashtra,2025-03-22,Water Supply,There has been no drinking water supply in our street for many days. This is affecting my family and daily life.,Low,Resolved,2025-04-01,10.0
+JS-0361,Madhya Pradesh,2025-10-15,Social Welfare,The local office has not responded to my repeated application follow-ups. This is affecting my family and daily life.,Medium,Pending,,
+JS-0362,Bihar,2025-05-31,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Low,Resolved,2025-06-08,8.0
+JS-0363,Uttar Pradesh,2025-11-10,Social Welfare,The local office has not responded to my repeated application follow-ups. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0364,Delhi,2025-03-27,Education,The school has insufficient teachers and students are missing classes. Kindly look into this matter and provide an update.,Low,Resolved,2025-05-02,36.0
+JS-0365,Bihar,2025-05-08,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0366,Maharashtra,2025-07-31,Rural Development,I applied for a rural housing benefit but have received no update. Please resolve the issue at the earliest.,Low,Resolved,2025-08-19,19.0
+JS-0367,Delhi,2025-10-23,Education,There is no drinking water facility in the government school. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-11-10,18.0
+JS-0368,Uttar Pradesh,2025-02-23,Rural Development,Our village drainage and sanitation work is incomplete. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-03-11,16.0
+JS-0369,Uttar Pradesh,2025-11-11,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-12-16,35.0
+JS-0370,Maharashtra,2025-04-16,Water Supply,Our water connection request has not been processed. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0371,Bihar,2025-01-26,Social Welfare,I am unable to access the eligible social assistance benefit. This is affecting my family and daily life.,Low,Resolved,2025-02-13,18.0
+JS-0372,Madhya Pradesh,2025-11-17,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-19,32.0
+JS-0373,Odisha,2025-02-11,Rural Development,My village road is damaged and has not been repaired despite repeated requests. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0374,Maharashtra,2025-07-18,Electricity,A damaged electric wire is hanging dangerously near homes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-08-05,18.0
+JS-0375,Uttar Pradesh,2025-08-27,Education,Scholarship payment has not reached my bank account. Please resolve the issue at the earliest.,Medium,Resolved,2025-09-20,24.0
+JS-0376,Madhya Pradesh,2025-07-31,Social Welfare,My pension has not been credited for the last two months. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0377,Maharashtra,2025-09-01,Water Supply,There has been no drinking water supply in our street for many days. Please resolve the issue at the earliest.,Low,Resolved,2025-09-21,20.0
+JS-0378,Uttar Pradesh,2025-08-18,Social Welfare,My pension has not been credited for the last two months. Kindly look into this matter and provide an update.,Medium,Resolved,2025-09-10,23.0
+JS-0379,Uttar Pradesh,2025-02-10,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0380,Maharashtra,2025-02-04,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-02-21,17.0
+JS-0381,Maharashtra,2025-01-07,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-01-27,20.0
+JS-0382,Delhi,2025-10-26,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Resolved,2025-11-10,15.0
+JS-0383,Bihar,2025-05-16,Rural Development,My village road is damaged and has not been repaired despite repeated requests. This is affecting my family and daily life.,Low,Resolved,2025-06-04,19.0
+JS-0384,Tamil Nadu,2025-07-25,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Medium,Resolved,2025-08-26,32.0
+JS-0385,Rajasthan,2025-07-10,Social Welfare,The welfare benefit application is pending without any explanation. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-08-19,40.0
+JS-0386,Tamil Nadu,2025-08-15,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Resolved,2025-09-03,19.0
+JS-0387,Bihar,2025-07-28,Education,There is no drinking water facility in the government school. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0388,Bihar,2025-07-26,Water Supply,The public water pipeline is leaking and wasting water. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-08-07,12.0
+JS-0389,Madhya Pradesh,2025-05-08,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-05-28,20.0
+JS-0390,Bihar,2025-11-22,Education,The school building is unsafe and needs urgent repair. Please resolve the issue at the earliest.,High,Pending,,
+JS-0391,Rajasthan,2025-08-31,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Low,Resolved,2025-09-19,19.0
+JS-0392,Madhya Pradesh,2025-03-25,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Medium,Pending,,
+JS-0393,Bihar,2025-07-29,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0394,Rajasthan,2025-11-08,Electricity,The electricity bill contains an incorrect charge. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0395,Maharashtra,2025-08-24,Social Welfare,I am unable to access the eligible social assistance benefit. Please resolve the issue at the earliest.,Low,Resolved,2025-09-18,25.0
+JS-0396,Rajasthan,2025-11-01,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-12-05,34.0
+JS-0397,Rajasthan,2025-05-22,Social Welfare,My pension has not been credited for the last two months. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-06,15.0
+JS-0398,Tamil Nadu,2025-11-04,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-11-09,5.0
+JS-0399,Madhya Pradesh,2025-05-13,Social Welfare,The welfare benefit application is pending without any explanation. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-06-14,32.0
+JS-0400,Uttar Pradesh,2025-03-29,Education,Scholarship payment has not reached my bank account. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0401,Tamil Nadu,2025-10-14,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,Medium,Resolved,2025-11-09,26.0
+JS-0402,Tamil Nadu,2025-06-07,Social Welfare,My pension has not been credited for the last two months. Kindly look into this matter and provide an update.,Low,Resolved,2025-06-27,20.0
+JS-0403,Delhi,2025-03-02,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-03-04,2.0
+JS-0404,Uttar Pradesh,2025-07-31,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-08-28,28.0
+JS-0405,Uttar Pradesh,2025-10-19,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. This is affecting my family and daily life.,High,Resolved,2025-11-24,36.0
+JS-0406,Rajasthan,2025-01-30,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Resolved,2025-02-10,11.0
+JS-0407,Maharashtra,2025-02-15,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-03-10,23.0
+JS-0408,Tamil Nadu,2025-07-11,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0409,Delhi,2025-05-08,Water Supply,The public water pipeline is leaking and wasting water. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-06-05,28.0
+JS-0410,Rajasthan,2025-01-24,Electricity,A damaged electric wire is hanging dangerously near homes. Kindly look into this matter and provide an update.,High,Resolved,2025-02-27,34.0
+JS-0411,Madhya Pradesh,2025-03-10,Electricity,A damaged electric wire is hanging dangerously near homes. Please resolve the issue at the earliest.,High,Resolved,2025-03-18,8.0
+JS-0412,Bihar,2025-03-09,Health & Family Welfare,My health scheme claim has been pending for several weeks. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-04-18,40.0
+JS-0413,Bihar,2025-01-20,Water Supply,The public water pipeline is leaking and wasting water. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-02-06,17.0
+JS-0414,Maharashtra,2025-03-01,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-03-27,26.0
+JS-0415,Rajasthan,2025-11-19,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-23,34.0
+JS-0416,Delhi,2025-11-13,Water Supply,The public water pipeline is leaking and wasting water. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-09,26.0
+JS-0417,Uttar Pradesh,2025-09-25,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Resolved,2025-10-28,33.0
+JS-0418,Delhi,2025-01-02,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Low,Resolved,2025-01-26,24.0
+JS-0419,Madhya Pradesh,2025-02-08,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Resolved,2025-03-05,25.0
+JS-0420,Bihar,2025-02-21,Electricity,A damaged electric wire is hanging dangerously near homes. This is affecting my family and daily life.,High,Pending,,
+JS-0421,Uttar Pradesh,2025-03-01,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-03-30,29.0
+JS-0422,Delhi,2025-11-15,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Low,Resolved,2025-12-18,33.0
+JS-0423,Odisha,2025-07-24,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Resolved,2025-08-17,24.0
+JS-0424,Uttar Pradesh,2025-01-31,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0425,Uttar Pradesh,2025-07-14,Rural Development,I applied for a rural housing benefit but have received no update. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0426,Tamil Nadu,2025-02-02,Electricity,My new electricity connection application is still pending. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-02-17,15.0
+JS-0427,Uttar Pradesh,2025-05-08,Rural Development,The rural employment payment for my work has not been credited. This is affecting my family and daily life.,Medium,Resolved,2025-05-22,14.0
+JS-0428,Uttar Pradesh,2025-08-29,Water Supply,There has been no drinking water supply in our street for many days. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0429,Maharashtra,2025-05-23,Rural Development,I applied for a rural housing benefit but have received no update. This is affecting my family and daily life.,Medium,Resolved,2025-06-23,31.0
+JS-0430,Odisha,2025-08-18,Health & Family Welfare,The government hospital has no essential medicines available. Please resolve the issue at the earliest.,Low,Resolved,2025-09-14,27.0
+JS-0431,Bihar,2025-01-10,Electricity,A damaged electric wire is hanging dangerously near homes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-02-03,24.0
+JS-0432,Madhya Pradesh,2025-07-06,Rural Development,Our village drainage and sanitation work is incomplete. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0433,Madhya Pradesh,2025-07-06,Electricity,A damaged electric wire is hanging dangerously near homes. Please resolve the issue at the earliest.,High,Resolved,2025-07-23,17.0
+JS-0434,Bihar,2025-07-11,Rural Development,Our village drainage and sanitation work is incomplete. This is affecting my family and daily life.,Low,Resolved,2025-08-02,22.0
+JS-0435,Madhya Pradesh,2025-11-09,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0436,Delhi,2025-01-24,Electricity,The electricity bill contains an incorrect charge. This is affecting my family and daily life.,Medium,Pending,,
+JS-0437,Uttar Pradesh,2025-01-25,Electricity,My new electricity connection application is still pending. Kindly look into this matter and provide an update.,High,Resolved,2025-02-03,9.0
+JS-0438,Tamil Nadu,2025-11-04,Social Welfare,The welfare benefit application is pending without any explanation. Kindly look into this matter and provide an update.,Medium,Resolved,2025-11-27,23.0
+JS-0439,Maharashtra,2025-06-25,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-07-29,34.0
+JS-0440,Madhya Pradesh,2025-10-11,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Resolved,2025-10-27,16.0
+JS-0441,Delhi,2025-04-02,Health & Family Welfare,The health centre is understaffed and patients wait for hours. This is affecting my family and daily life.,Medium,Resolved,2025-04-15,13.0
+JS-0442,Delhi,2025-08-05,Education,There is no drinking water facility in the government school. Please resolve the issue at the earliest.,Low,Pending,,
+JS-0443,Rajasthan,2025-04-13,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0444,Odisha,2025-01-17,Health & Family Welfare,The government hospital has no essential medicines available. This is affecting my family and daily life.,Medium,Resolved,2025-02-25,39.0
+JS-0445,Maharashtra,2025-05-28,Rural Development,The rural employment payment for my work has not been credited. Please resolve the issue at the earliest.,Medium,Resolved,2025-06-22,25.0
+JS-0446,Odisha,2025-04-14,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-05-07,23.0
+JS-0447,Delhi,2025-04-01,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0448,Rajasthan,2025-05-16,Electricity,Our locality has had a power outage for several days. Please resolve the issue at the earliest.,High,Resolved,2025-06-02,17.0
+JS-0449,Rajasthan,2025-06-15,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,High,Resolved,2025-06-21,6.0
+JS-0450,Uttar Pradesh,2025-06-12,Electricity,A damaged electric wire is hanging dangerously near homes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-06-22,10.0
+JS-0451,Tamil Nadu,2025-07-26,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Low,Resolved,2025-08-25,30.0
+JS-0452,Bihar,2025-11-13,Education,The school building is unsafe and needs urgent repair. This is affecting my family and daily life.,High,Resolved,2025-12-04,21.0
+JS-0453,Tamil Nadu,2025-11-11,Rural Development,Our village drainage and sanitation work is incomplete. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-12,31.0
+JS-0454,Tamil Nadu,2025-05-25,Electricity,Our locality has had a power outage for several days. Please resolve the issue at the earliest.,High,Resolved,2025-06-09,15.0
+JS-0455,Bihar,2025-04-09,Water Supply,Our water connection request has not been processed. Please resolve the issue at the earliest.,Medium,Resolved,2025-05-03,24.0
+JS-0456,Madhya Pradesh,2025-08-06,Social Welfare,My pension has not been credited for the last two months. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0457,Rajasthan,2025-06-19,Water Supply,Our water connection request has not been processed. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-07-10,21.0
+JS-0458,Maharashtra,2025-08-19,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Low,Resolved,2025-09-14,26.0
+JS-0459,Bihar,2025-11-25,Education,The school has insufficient teachers and students are missing classes. Please resolve the issue at the earliest.,Medium,Resolved,2025-12-20,25.0
+JS-0460,Rajasthan,2025-06-04,Social Welfare,My pension has not been credited for the last two months. This is affecting my family and daily life.,Medium,Resolved,2025-06-27,23.0
+JS-0461,Rajasthan,2025-10-01,Electricity,My new electricity connection application is still pending. Please resolve the issue at the earliest.,Medium,Pending,,
+JS-0462,Uttar Pradesh,2025-01-06,Social Welfare,The welfare benefit application is pending without any explanation. This is affecting my family and daily life.,Low,Resolved,2025-02-14,39.0
+JS-0463,Tamil Nadu,2025-02-13,Rural Development,My village road is damaged and has not been repaired despite repeated requests. I have submitted requests earlier but no action has been taken.,Low,Pending,,
+JS-0464,Madhya Pradesh,2025-11-12,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Medium,Pending,,
+JS-0465,Odisha,2025-02-07,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-03-04,25.0
+JS-0466,Delhi,2025-05-01,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Resolved,2025-05-21,20.0
+JS-0467,Tamil Nadu,2025-06-06,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Low,Resolved,2025-06-30,24.0
+JS-0468,Maharashtra,2025-04-24,Electricity,The electricity bill contains an incorrect charge. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-05-15,21.0
+JS-0469,Rajasthan,2025-06-19,Education,The school building is unsafe and needs urgent repair. Kindly look into this matter and provide an update.,High,Resolved,2025-07-13,24.0
+JS-0470,Uttar Pradesh,2025-02-11,Electricity,Our locality has had a power outage for several days. Kindly look into this matter and provide an update.,High,Pending,,
+JS-0471,Maharashtra,2025-01-10,Water Supply,The public water pipeline is leaking and wasting water. This is affecting my family and daily life.,Medium,Pending,,
+JS-0472,Uttar Pradesh,2025-10-04,Water Supply,The public water pipeline is leaking and wasting water. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-10-20,16.0
+JS-0473,Madhya Pradesh,2025-09-14,Education,There is no drinking water facility in the government school. Kindly look into this matter and provide an update.,High,Resolved,2025-09-23,9.0
+JS-0474,Uttar Pradesh,2025-10-17,Water Supply,The public water pipeline is leaking and wasting water. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0475,Madhya Pradesh,2025-09-07,Social Welfare,The local office has not responded to my repeated application follow-ups. This is affecting my family and daily life.,Medium,Resolved,2025-10-03,26.0
+JS-0476,Bihar,2025-08-21,Water Supply,The supplied water is dirty and causing concern among residents. Please resolve the issue at the earliest.,High,Pending,,
+JS-0477,Maharashtra,2025-05-15,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Low,Resolved,2025-05-31,16.0
+JS-0478,Tamil Nadu,2025-04-25,Education,The school has insufficient teachers and students are missing classes. This is affecting my family and daily life.,Low,Resolved,2025-05-16,21.0
+JS-0479,Rajasthan,2025-03-13,Education,There is no drinking water facility in the government school. Please resolve the issue at the earliest.,Medium,Resolved,2025-04-02,20.0
+JS-0480,Delhi,2025-11-05,Health & Family Welfare,An ambulance did not arrive after repeated calls for an emergency. Kindly look into this matter and provide an update.,High,Resolved,2025-11-25,20.0
+JS-0481,Maharashtra,2025-09-04,Social Welfare,The welfare benefit application is pending without any explanation. Please resolve the issue at the earliest.,Low,Resolved,2025-09-25,21.0
+JS-0482,Bihar,2025-03-24,Rural Development,The rural employment payment for my work has not been credited. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-04-10,17.0
+JS-0483,Bihar,2025-04-03,Water Supply,The public water pipeline is leaking and wasting water. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0484,Uttar Pradesh,2025-08-30,Social Welfare,I am unable to access the eligible social assistance benefit. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0485,Odisha,2025-09-19,Health & Family Welfare,My health scheme claim has been pending for several weeks. Kindly look into this matter and provide an update.,Medium,Resolved,2025-10-13,24.0
+JS-0486,Maharashtra,2025-02-25,Water Supply,There has been no drinking water supply in our street for many days. Kindly look into this matter and provide an update.,Low,Resolved,2025-04-04,38.0
+JS-0487,Delhi,2025-11-04,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,Low,Resolved,2025-12-13,39.0
+JS-0488,Tamil Nadu,2025-08-09,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Medium,Resolved,2025-09-07,29.0
+JS-0489,Delhi,2025-07-15,Rural Development,I applied for a rural housing benefit but have received no update. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0490,Maharashtra,2025-02-12,Electricity,The electricity bill contains an incorrect charge. This is affecting my family and daily life.,Low,Resolved,2025-03-21,37.0
+JS-0491,Tamil Nadu,2025-03-02,Education,Scholarship payment has not reached my bank account. I have submitted requests earlier but no action has been taken.,Medium,Resolved,2025-03-20,18.0
+JS-0492,Maharashtra,2025-10-27,Electricity,A damaged electric wire is hanging dangerously near homes. I have submitted requests earlier but no action has been taken.,High,Resolved,2025-11-13,17.0
+JS-0493,Odisha,2025-07-23,Water Supply,The supplied water is dirty and causing concern among residents. This is affecting my family and daily life.,High,Pending,,
+JS-0494,Maharashtra,2025-10-23,Health & Family Welfare,The health centre is understaffed and patients wait for hours. Please resolve the issue at the earliest.,Low,Resolved,2025-11-09,17.0
+JS-0495,Bihar,2025-03-24,Social Welfare,The welfare benefit application is pending without any explanation. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0496,Maharashtra,2025-08-30,Health & Family Welfare,My health scheme claim has been pending for several weeks. I have submitted requests earlier but no action has been taken.,Medium,Pending,,
+JS-0497,Rajasthan,2025-11-08,Rural Development,My village road is damaged and has not been repaired despite repeated requests. This is affecting my family and daily life.,Medium,Pending,,
+JS-0498,Rajasthan,2025-04-14,Social Welfare,My pension has not been credited for the last two months. Kindly look into this matter and provide an update.,Low,Pending,,
+JS-0499,Rajasthan,2025-07-04,Health & Family Welfare,The government hospital has no essential medicines available. Kindly look into this matter and provide an update.,Medium,Resolved,2025-07-30,26.0
+JS-0500,Delhi,2025-04-13,Electricity,A damaged electric wire is hanging dangerously near homes. Please resolve the issue at the earliest.,High,Resolved,2025-05-01,18.0
